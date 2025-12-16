@@ -1,4 +1,4 @@
-#10 практика
+10 практика
 <img width="795" height="628" alt="Снимок экрана 2025-12-16 в 4 13 01 AM" src="https://github.com/user-attachments/assets/ccbf5b34-99f6-4354-8ba4-a53e9a33dd19" />
 страница с пустым списком
 <img width="802" height="626" alt="Снимок экрана 2025-12-16 в 4 13 24 AM" src="https://github.com/user-attachments/assets/043ec64d-14ab-47a8-87f0-f80df0359bbd" />
